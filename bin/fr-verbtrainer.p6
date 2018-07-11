@@ -1,3 +1,4 @@
+#!/usr/bin/env perl6
 use App::Lang::French::VerbTrainer;
 
 sub MAIN(ValidFrenchVerb $verb) {

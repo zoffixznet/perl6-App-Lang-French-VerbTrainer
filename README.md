@@ -10,22 +10,22 @@ User input is shown within angle brackets `<...>`:
 
 ```bash
 $ fr-verbtrainer.p6 accepter
-Présent:
-  je <accepte>
-  tu <accepte>
-  Fautif!
-  tu <acceptes>
-  il/elle/on <accepte>
-  nous <acceptonz>
-  Fautif!
-  nous <accepton>
-  Fautif!
-  nous <?>
-  nous acceptons
+Press Ctrl+C to exit. Type '?' as the answer if you don't know it
 
-Future Proche:
-  je […]
-  […]
+Présent:
+    il/elle/on: accepte
+    ils/elles: acceptent
+    je: accepteiosiner
+Fautif!
+    je: accepte
+    nous: acceptons
+    tu: acceptes
+    vous: acceptez
+
+Future proche:
+    il/elle/on: va accepter
+    ils/elles: […]
+    […]
 ```
 
 # DESCRIPTION
